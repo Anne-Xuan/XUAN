@@ -1,0 +1,172 @@
+body{
+	color:grey;
+	text-align:left;
+	background-color: white;
+	font-family: 'raleway';
+	margin:auto;
+}
+
+@media (max-width: 960px) {.container {width: 700px;}}
+
+@media (max-width: 720px) {.container {width: 500px;}}
+
+@media (max-width: 540px) {.container {width: 300px;}}
+
+
+
+h2{
+	color :white;
+	font-family: 'raleway';
+	font-size:60px;
+	margin-left:250px;
+	text-align:left;
+
+}
+
+
+img {
+  border-radius:50%;
+
+}
+
+h1{
+	color : black;
+	font-family:spectral;
+	font-size:50px;
+	text-align:center;
+	margin-left:200px;
+	margin-top:30px;
+
+}
+
+h3{
+	font-family: 'raleway';
+	font-size:70px;
+	margin:5px 5px;
+	color: white;
+	padding:2px;
+}
+
+h4{
+    font-weight: bold;
+    color:white;
+    text-align: left;
+}
+
+h5{
+    font-family: 'raleway';
+	font-size:70px;
+	margin:5px 5px;
+	color: black;
+	padding:2px;
+}
+
+p{
+	font-family: 'raleway';
+}
+
+i {
+font-size: 90px;
+color : black;
+text-align: center;
+}
+
+i:hover{
+	color:blue;
+	font-size: 110px;
+}
+
+.container{
+	background-image:url(.jpeg);
+	width: 1150px;
+	margin:20px auto;
+	border-radius: 10px;
+	padding:0px;
+}
+
+
+.card{
+	background-color:white;
+	text-align: center;
+	border-radius: 50px;
+	border-bottom: 20px;
+	box-shadow: 0px 5px 10px;
+	width: 950px;
+}
+.col{
+	background-image:url(photoo.jpeg);
+	background-size:950px;
+	width: 950px;
+	height: 50%
+    position: 50%;
+    text-align:left;
+    color:white;
+
+}
+.fop{
+	background-image:url(fop.jpeg);
+	background-size:950px;
+	width: 950px;
+	height: 50%
+    position: 50%;
+    text-align:left;
+    color:black;
+}
+
+.dot{
+	background-image:url(cc.jpeg);
+	background-size:950px;
+	width: 950px;
+	height: 50%
+    position: 50%;
+    text-align:left;
+    color:white;
+}
+
+.cta{
+	background-image:url(aa.jpeg);
+	background-size:950px;
+	width: 950px;
+	height: 100px;
+    position: 50%;
+    text-align:left;
+    color:white;
+}
+
+#bg-img{
+	opacity: 0.5,url(pto.jpeg);
+
+}
+
+.mature{
+
+	color:black;
+	background-color:white;
+	background-size:950px;
+	height: 950px;
+	height: auto;
+	text-align:left;
+	margin-left:230px;
+
+}
+.loop{
+	background-image: url(pto.jpeg);
+	background-size:950px;
+	width: 950px;
+	height: 50%
+    position: 50%;
+    text-align:left;
+    color:white;
+}
+
+
+
+div {
+	text-align: center;
+	margin: 10px 10px 10px;
+	margin:auto;
+	width: 800px;
+	border-radius: 5px;
+	border-width: 5px;
+	padding: 15px
+}
